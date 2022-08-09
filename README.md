@@ -10,4 +10,3 @@ I am interested in learning Markdown, and get involved in opensource projects.
 
 Also, I am keen in developing inclusive, accessible and sustainable documentation.
 
-You can reach me here at Github.
