@@ -1,7 +1,9 @@
-Hey all,
+Hello,
 
-My name is Nick,
+My name is Nikos,
 
-I am currently working as a technical writer, primarily using DITA-XML for documentation.
+For the last couple of years, I have been working as a *technical writer*, primarily using docs-as-code approach for documentation.
 
-In my free time, I am conducting research for my Phd studies.
+I am familiar with *LaTeX*, *Markdown*, and *Python*, among other markup and programming languages.
+
+In my spare time, I conduct research for my PhD in Information Science. More specifically, I am collecting and analyzing online news articles for similarity patterns.
